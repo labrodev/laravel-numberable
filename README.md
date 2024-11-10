@@ -19,7 +19,7 @@ You just need to overwrite method `protected function generateNumberByTraitModel
 To install the package, run the following command in your Laravel project:
 
 ```bash
-composer require labrodev/uuidable
+composer require labrodev/numberable
 ```
 
 ## Requirements

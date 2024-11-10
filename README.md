@@ -41,7 +41,7 @@ To use the `ModelHasNumber` trait, simply include it in your Eloquent model:
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Labrodev\Uuidable\ModelHasNumber;
+use Labrodev\Numberable\ModelHasNumber;
 
 class ExampleModel extends Model
 {

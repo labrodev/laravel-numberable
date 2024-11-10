@@ -27,9 +27,8 @@
     },
     "require": {
         "php": ">=8.1",
-        "illuminate/contracts": "^10.0",
-        "nesbot/carbon": "^2.72",
-        "ramsey/uuid": "^4.7"
+        "illuminate/contracts": "^10.0|^11.0",
+        "nesbot/carbon": ">=2.72"
     },
     "require-dev": {
         "larastan/larastan": "^2.9",
